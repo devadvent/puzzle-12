@@ -4,20 +4,20 @@
 
 # Dev Advent Calendar 🎅 Puzzle 12 - Xmas Tree Art 🎄
 
-> This puzzle will be less a puzzle and more a challenge. It will be different from the JavaScript puzzles before 😉
+> This puzzle will be less of a puzzle and more a challenge. It will be different from the JavaScript puzzles before 😉
 
-The elves are having a little competition about who makes the most beautiful art about a Christmas tree, and since you've been helping them out a great deal lately, they invited you to participate.
+The elves are having a little competition about who makes the most beautiful art depicting a Christmas tree, and since you've been helping them out a great deal lately, they invited you to participate.
 
 ## 💪 The challenge
 
 **Create a representation of a Christmas tree with CSS.**
 
-In the file [index.html](index.html) you can find the HTML structure for the tree. It' absolutely valid to add more elements to the markup.
+In the file [index.html](index.html) you can find the HTML structure for the tree. It's absolutely valid to add more elements to the markup.
 Write your CSS code in [style.css](style.css).
 
 ### Rules
 
--   Don't just copy entire projects from the Internet
+-   Don't just copy entire projects from the Internet.
 -   Don't just load an image. Make the tree with CSS!
 
 ## 🚢 Ship your solution
