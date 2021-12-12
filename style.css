@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    font-weight: normal;
+}
+.xmas-tree-wrapper {
+    width: 700px;
+    height: 700px;
+    border: dashed 3px #ccc;
+    border-radius: 1rem;
+}
+
+.xmas-tree {
+}
