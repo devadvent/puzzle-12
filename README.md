@@ -26,7 +26,7 @@ Check out the [contributing guide](https://github.com/devadvent/readme/blob/main
 
 In short:
 
--   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/Art5BMTs) using the participation link
+-   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/5ri8w-60) using the participation link
 -   💪 Solve the challenge
 -   🐦 Add your Twitter handle to `twitter.js`
 -   🤖 Test your solution
@@ -35,7 +35,7 @@ In short:
 ## 🔗 Participation link
 
 In order to participate, you need to enter the following link and accept the assignment:
-[https://classroom.github.com/a/Art5BMTs](https://classroom.github.com/a/Art5BMTs)
+[https://classroom.github.com/a/5ri8w-60](https://classroom.github.com/a/5ri8w-60)
 
 ## 💻 Use this project
 
